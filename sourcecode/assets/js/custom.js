@@ -3,7 +3,7 @@ $(document).ready(function(){
     
         /*==================================
 * Author        : "ThemeSine"
-* Template Name : CarVilla HTML Template
+* Template Name : Nasrul HTML Template
 * Version       : 1.0
 ==================================== */
 
